@@ -22,6 +22,7 @@ namespace LuckySpin
         int spinCount = 0; // số lần đã quay
 
         Random rd = new Random();
+        MediaPlayer spinMusic = new MediaPlayer();
         public MainWindow()
         {
             InitializeComponent();
@@ -211,11 +212,23 @@ namespace LuckySpin
             WheelRotate.BeginAnimation(RotateTransform.AngleProperty, null);
             WheelRotate.Angle = 0;
 
+            // Phát nhạc khi quay
+            try
+            {
+                string musicPath = IOPath.Combine(AppDomain.CurrentDomain.BaseDirectory, "nhac_khi_quay.mp3");
+                if (System.IO.File.Exists(musicPath))
+                {
+                    spinMusic.Open(new Uri(musicPath));
+                    spinMusic.Play();
+                }
+            }
+            catch { }
+
             DoubleAnimation anim = new DoubleAnimation
             {
                 From = 0,
                 To = rounds * 360 + stopAngle,
-                Duration = TimeSpan.FromSeconds(4),
+                Duration = TimeSpan.FromSeconds(7),
                 EasingFunction = new CubicEase { EasingMode = EasingMode.EaseOut },
                 FillBehavior = FillBehavior.HoldEnd
             };
@@ -224,6 +237,8 @@ namespace LuckySpin
 
             anim.Completed += (s, _) =>
             {
+                // Dừng nhạc khi quay xong
+                spinMusic.Stop();
                 OnSpinCompleted(targetIndex);
                 SpinButton.IsEnabled = true;
             };

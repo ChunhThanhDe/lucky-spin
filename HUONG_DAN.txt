@@ -1,0 +1,113 @@
+═══════════════════════════════════════════════════════
+        HƯỚNG DẪN SỬ DỤNG LUCKY SPIN
+═══════════════════════════════════════════════════════
+
+┌─────────────────────────────────────────────────────┐
+│ 1. MỞ ỨNG DỤNG                                      │
+└─────────────────────────────────────────────────────┘
+
+Đường dẫn đầy đủ:
+e:\Lucky Spin\Lucky Spin\LuckySpin\LuckySpin\bin\Release\LuckySpin.exe
+
+Hoặc double-click file:  LuckySpin.exe  (trong folder Release)
+
+
+┌─────────────────────────────────────────────────────┐
+│ 2. CHỈNH SỬA GIẢI THƯỞNG                            │
+└─────────────────────────────────────────────────────┘
+
+Đường dẫn đầy đủ:
+e:\Lucky Spin\Lucky Spin\LuckySpin\LuckySpin\bin\Release\Config\INPUT.xlsx
+
+Hoặc mở file:  Config\INPUT.xlsx  (cùng cấp với LuckySpin.exe)
+
+┌─────┬────────┬─────────────────────────────────────┐
+│ Cột │  Tên   │  Ý nghĩa                            │
+├─────┼────────┼─────────────────────────────────────┤
+│  A  │ NAME   │ Tên giải (VD: 1.000.000đ)           │
+│  B  │ STT    │ Lượt quay bắt buộc trúng (VD: 10)   │
+│  C  │ RATE   │ Tỷ lệ trúng (số lớn = dễ trúng)     │
+│  D  │ISCLEAR │ TRUE = xóa sau khi trúng            │
+│  E  │ IMAGE  │ Tên file ảnh (VD: money1.png)       │
+└─────┴────────┴─────────────────────────────────────┘
+
+Ví dụ:
+┌─────────────┬─────┬──────┬─────────┬────────────┐
+│    NAME     │ STT │ RATE │ ISCLEAR │   IMAGE    │
+├─────────────┼─────┼──────┼─────────┼────────────┤
+│ 1.000.000đ  │ 10  │      │  TRUE   │ money2.png │
+│   500.000đ  │     │  5   │  TRUE   │ money1.png │
+│   100.000đ  │     │ 10   │  TRUE   │ gift1.png  │
+│ Chúc may mắn│     │      │  FALSE  │ sad.png    │
+└─────────────┴─────┴──────┴─────────┴────────────┘
+
+
+┌─────────────────────────────────────────────────────┐
+│ 3. THÊM ẢNH                                         │
+└─────────────────────────────────────────────────────┘
+
+Đường dẫn folder ảnh:
+e:\Lucky Spin\Lucky Spin\LuckySpin\LuckySpin\bin\Release\Images\
+
+Bước 1: Lưu ảnh vào folder  Images\  (cùng cấp với LuckySpin.exe)
+Bước 2: Ghi tên file vào cột IMAGE trong Excel
+
+Lưu ý:
+- Định dạng: .png, .jpg, .jpeg, .gif
+- Kích thước đề xuất: 256x256px hoặc 512x512px
+- Tên file không dấu, không khoảng trắng
+
+
+┌─────────────────────────────────────────────────────┐
+│ 4. CẤU TRÚC FOLDER                                  │
+└─────────────────────────────────────────────────────┘
+
+Vị trí: e:\Lucky Spin\Lucky Spin\LuckySpin\LuckySpin\bin\Release\
+
+Release\
+├─ LuckySpin.exe         ← Mở file này
+├─ nhac_khi_quay.mp3     ← Nhạc khi quay
+├─ nhac_ket_thuc.mp3     ← Nhạc khi trúng
+├─ Config\
+│  └─ INPUT.xlsx         ← Sửa file này
+├─ Images\               ← Thêm ảnh vào đây
+│  ├─ money1.png
+│  ├─ money2.png
+│  ├─ gift1.png
+│  └─ sad.png
+└─ lib\                  (Không động vào)
+
+
+┌─────────────────────────────────────────────────────┐
+│ 5. MẸO HAY                                          │
+└─────────────────────────────────────────────────────┘
+
+• Điều khiển kết quả: Dùng cột STT
+  VD: STT = 5 → Lượt 5 chắc chắn trúng
+
+• Tăng tỷ lệ trúng: Tăng số RATE
+  VD: RATE = 20 dễ trúng hơn RATE = 5
+
+• Giải không bị xóa: ISCLEAR = FALSE
+  VD: "Chúc may mắn lần sau"
+
+• Không hiển thị ảnh: Để trống cột IMAGE
+
+
+┌─────────────────────────────────────────────────────┐
+│ 6. KHẮC PHỤC SỰ CỐ                                  │
+└─────────────────────────────────────────────────────┘
+
+Ảnh không hiển thị?
+→ Kiểm tra tên file trong Excel khớp với file trong Images\
+
+Excel bị lỗi?
+→ Đảm bảo cột NAME không để trống
+
+App không mở?
+→ Kiểm tra file LuckySpin.exe.config còn không
+
+
+═══════════════════════════════════════════════════════
+              Chúc bạn sử dụng vui vẻ!
+═══════════════════════════════════════════════════════

@@ -1,0 +1,174 @@
+C:\Users\Admin\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\LuckySpin.exe.config
+C:\Users\Admin\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\LuckySpin.exe
+C:\Users\Admin\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\LuckySpin.pdb
+C:\Users\Admin\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin.csproj.AssemblyReference.cache
+C:\Users\Admin\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\App.g.cs
+C:\Users\Admin\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin_MarkupCompile.cache
+C:\Users\Admin\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin_MarkupCompile.lref
+C:\Users\Admin\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\MainWindow.baml
+C:\Users\Admin\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin.g.resources
+C:\Users\Admin\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin.Properties.Resources.resources
+C:\Users\Admin\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin.csproj.GenerateResource.cache
+C:\Users\Admin\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin.exe
+C:\Users\Admin\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin.pdb
+C:\Users\Admin\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\EPPlus.dll
+C:\Users\Admin\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Admin\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Admin\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Admin\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Memory.dll
+C:\Users\Admin\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\Admin\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\EPPlus.xml
+C:\Users\Admin\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Admin\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Memory.xml
+C:\Users\Admin\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Admin\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin.csproj.Up2Date
+C:\Users\Admin\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\WinName.g.cs
+C:\Users\Admin\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\WinName.baml
+D:\VNPT_Technology\Job\3_Other_Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\LuckySpin.exe.config
+D:\VNPT_Technology\Job\3_Other_Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\LuckySpin.exe
+D:\VNPT_Technology\Job\3_Other_Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\LuckySpin.pdb
+D:\VNPT_Technology\Job\3_Other_Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\EPPlus.dll
+D:\VNPT_Technology\Job\3_Other_Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\EPPlus.Interfaces.dll
+D:\VNPT_Technology\Job\3_Other_Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\VNPT_Technology\Job\3_Other_Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Buffers.dll
+D:\VNPT_Technology\Job\3_Other_Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.ComponentModel.Annotations.dll
+D:\VNPT_Technology\Job\3_Other_Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Memory.dll
+D:\VNPT_Technology\Job\3_Other_Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Numerics.Vectors.dll
+D:\VNPT_Technology\Job\3_Other_Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\VNPT_Technology\Job\3_Other_Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\VNPT_Technology\Job\3_Other_Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\EPPlus.xml
+D:\VNPT_Technology\Job\3_Other_Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\VNPT_Technology\Job\3_Other_Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Buffers.xml
+D:\VNPT_Technology\Job\3_Other_Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Memory.xml
+D:\VNPT_Technology\Job\3_Other_Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Numerics.Vectors.xml
+D:\VNPT_Technology\Job\3_Other_Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\VNPT_Technology\Job\3_Other_Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\VNPT_Technology\Job\3_Other_Project\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin.csproj.AssemblyReference.cache
+D:\VNPT_Technology\Job\3_Other_Project\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\MainWindow.g.cs
+D:\VNPT_Technology\Job\3_Other_Project\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\WinName.g.cs
+D:\VNPT_Technology\Job\3_Other_Project\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\App.g.cs
+D:\VNPT_Technology\Job\3_Other_Project\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin_MarkupCompile.cache
+D:\VNPT_Technology\Job\3_Other_Project\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin_MarkupCompile.lref
+D:\VNPT_Technology\Job\3_Other_Project\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\MainWindow.baml
+D:\VNPT_Technology\Job\3_Other_Project\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\WinName.baml
+D:\VNPT_Technology\Job\3_Other_Project\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin.g.resources
+D:\VNPT_Technology\Job\3_Other_Project\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin.Properties.Resources.resources
+D:\VNPT_Technology\Job\3_Other_Project\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin.csproj.GenerateResource.cache
+D:\VNPT_Technology\Job\3_Other_Project\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin.csproj.CoreCompileInputs.cache
+D:\VNPT_Technology\Job\3_Other_Project\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin.csproj.Up2Date
+D:\VNPT_Technology\Job\3_Other_Project\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin.exe
+D:\VNPT_Technology\Job\3_Other_Project\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin.pdb
+C:\Users\longnx\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\LuckySpin.exe.config
+C:\Users\longnx\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\LuckySpin.exe
+C:\Users\longnx\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\LuckySpin.pdb
+C:\Users\longnx\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\EPPlus.dll
+C:\Users\longnx\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\longnx\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\longnx\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Buffers.dll
+C:\Users\longnx\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\longnx\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Memory.dll
+C:\Users\longnx\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\longnx\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\longnx\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\longnx\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\EPPlus.xml
+C:\Users\longnx\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\longnx\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Buffers.xml
+C:\Users\longnx\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Memory.xml
+C:\Users\longnx\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\longnx\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\longnx\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\longnx\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin.csproj.AssemblyReference.cache
+C:\Users\longnx\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\MainWindow.g.cs
+C:\Users\longnx\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\WinName.g.cs
+C:\Users\longnx\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\App.g.cs
+C:\Users\longnx\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin_MarkupCompile.cache
+C:\Users\longnx\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin_MarkupCompile.lref
+C:\Users\longnx\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\MainWindow.baml
+C:\Users\longnx\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\WinName.baml
+C:\Users\longnx\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin.g.resources
+C:\Users\longnx\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin.Properties.Resources.resources
+C:\Users\longnx\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin.csproj.GenerateResource.cache
+C:\Users\longnx\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin.csproj.CoreCompileInputs.cache
+C:\Users\longnx\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin.csproj.Up2Date
+C:\Users\longnx\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin.exe
+C:\Users\longnx\Dropbox\Project\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin.pdb
+D:\VNPT_Technology\Job\GameShow\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\LuckySpin.exe.config
+D:\VNPT_Technology\Job\GameShow\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\LuckySpin.exe
+D:\VNPT_Technology\Job\GameShow\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\LuckySpin.pdb
+D:\VNPT_Technology\Job\GameShow\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\EPPlus.dll
+D:\VNPT_Technology\Job\GameShow\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\EPPlus.Interfaces.dll
+D:\VNPT_Technology\Job\GameShow\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\VNPT_Technology\Job\GameShow\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Buffers.dll
+D:\VNPT_Technology\Job\GameShow\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.ComponentModel.Annotations.dll
+D:\VNPT_Technology\Job\GameShow\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Memory.dll
+D:\VNPT_Technology\Job\GameShow\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Numerics.Vectors.dll
+D:\VNPT_Technology\Job\GameShow\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\VNPT_Technology\Job\GameShow\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\VNPT_Technology\Job\GameShow\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\EPPlus.xml
+D:\VNPT_Technology\Job\GameShow\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\VNPT_Technology\Job\GameShow\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Buffers.xml
+D:\VNPT_Technology\Job\GameShow\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Memory.xml
+D:\VNPT_Technology\Job\GameShow\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Numerics.Vectors.xml
+D:\VNPT_Technology\Job\GameShow\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\VNPT_Technology\Job\GameShow\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\VNPT_Technology\Job\GameShow\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin.csproj.AssemblyReference.cache
+D:\VNPT_Technology\Job\GameShow\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\MainWindow.g.cs
+D:\VNPT_Technology\Job\GameShow\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\WinName.g.cs
+D:\VNPT_Technology\Job\GameShow\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\App.g.cs
+D:\VNPT_Technology\Job\GameShow\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin_MarkupCompile.cache
+D:\VNPT_Technology\Job\GameShow\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin_MarkupCompile.lref
+D:\VNPT_Technology\Job\GameShow\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\MainWindow.baml
+D:\VNPT_Technology\Job\GameShow\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\WinName.baml
+D:\VNPT_Technology\Job\GameShow\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin.g.resources
+D:\VNPT_Technology\Job\GameShow\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin.Properties.Resources.resources
+D:\VNPT_Technology\Job\GameShow\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin.csproj.GenerateResource.cache
+D:\VNPT_Technology\Job\GameShow\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin.csproj.CoreCompileInputs.cache
+D:\VNPT_Technology\Job\GameShow\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin.csproj.Up2Date
+D:\VNPT_Technology\Job\GameShow\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin.exe
+D:\VNPT_Technology\Job\GameShow\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin.pdb
+e:\Lucky Spin\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin.csprojResolveAssemblyReference.cache
+e:\Lucky Spin\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\MainWindow.g.cs
+e:\Lucky Spin\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\WinName.g.cs
+e:\Lucky Spin\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\App.g.cs
+e:\Lucky Spin\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin_MarkupCompile.cache
+e:\Lucky Spin\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin_MarkupCompile.lref
+e:\Lucky Spin\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin.exe
+e:\Lucky Spin\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\LuckySpin.exe.config
+e:\Lucky Spin\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\LuckySpin.exe
+e:\Lucky Spin\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\LuckySpin.pdb
+e:\Lucky Spin\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\EPPlus.dll
+e:\Lucky Spin\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\EPPlus.Interfaces.dll
+e:\Lucky Spin\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+e:\Lucky Spin\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\mscorlib.dll
+e:\Lucky Spin\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Buffers.dll
+e:\Lucky Spin\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.ComponentModel.Annotations.dll
+e:\Lucky Spin\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Memory.dll
+e:\Lucky Spin\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Numerics.Vectors.dll
+e:\Lucky Spin\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+e:\Lucky Spin\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Security.Cryptography.Xml.dll
+e:\Lucky Spin\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\EPPlus.xml
+e:\Lucky Spin\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+e:\Lucky Spin\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Buffers.xml
+e:\Lucky Spin\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Memory.xml
+e:\Lucky Spin\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Numerics.Vectors.xml
+e:\Lucky Spin\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+e:\Lucky Spin\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\System.Security.Cryptography.Xml.xml
+e:\Lucky Spin\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\normidna.nlp
+e:\Lucky Spin\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\normnfc.nlp
+e:\Lucky Spin\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\normnfd.nlp
+e:\Lucky Spin\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\normnfkc.nlp
+e:\Lucky Spin\Lucky Spin\LuckySpin\LuckySpin\bin\Debug\normnfkd.nlp
+e:\Lucky Spin\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\MainWindow.baml
+e:\Lucky Spin\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\WinName.baml
+e:\Lucky Spin\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin.g.resources
+e:\Lucky Spin\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin.Properties.Resources.resources
+e:\Lucky Spin\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin.csproj.GenerateResource.Cache
+e:\Lucky Spin\Lucky Spin\LuckySpin\LuckySpin\obj\Debug\LuckySpin.pdb

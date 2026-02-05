@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\longnx\\Dropbox\\Project\\Lucky Spin\\LuckySpin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB67749-E6E2-45DE-911F-5E295526AA08}|LuckySpin\\LuckySpin.csproj|C:\\Users\\longnx\\Dropbox\\Project\\Lucky Spin\\LuckySpin\\luckyspin\\winname.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9EB67749-E6E2-45DE-911F-5E295526AA08}|LuckySpin\\LuckySpin.csproj|solutionrelative:luckyspin\\winname.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB67749-E6E2-45DE-911F-5E295526AA08}|LuckySpin\\LuckySpin.csproj|C:\\Users\\longnx\\Dropbox\\Project\\Lucky Spin\\LuckySpin\\luckyspin\\winname.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB67749-E6E2-45DE-911F-5E295526AA08}|LuckySpin\\LuckySpin.csproj|solutionrelative:luckyspin\\winname.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB67749-E6E2-45DE-911F-5E295526AA08}|LuckySpin\\LuckySpin.csproj|C:\\Users\\longnx\\Dropbox\\Project\\Lucky Spin\\LuckySpin\\luckyspin\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9EB67749-E6E2-45DE-911F-5E295526AA08}|LuckySpin\\LuckySpin.csproj|solutionrelative:luckyspin\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB67749-E6E2-45DE-911F-5E295526AA08}|LuckySpin\\LuckySpin.csproj|c:\\users\\longnx\\dropbox\\project\\lucky spin\\luckyspin\\luckyspin\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB67749-E6E2-45DE-911F-5E295526AA08}|LuckySpin\\LuckySpin.csproj|solutionrelative:luckyspin\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB67749-E6E2-45DE-911F-5E295526AA08}|LuckySpin\\LuckySpin.csproj|C:\\Users\\longnx\\Dropbox\\Project\\Lucky Spin\\LuckySpin\\luckyspin\\inputdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB67749-E6E2-45DE-911F-5E295526AA08}|LuckySpin\\LuckySpin.csproj|solutionrelative:luckyspin\\inputdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InputData.cs",
+              "DocumentMoniker": "C:\\Users\\longnx\\Dropbox\\Project\\Lucky Spin\\LuckySpin\\LuckySpin\\InputData.cs",
+              "RelativeDocumentMoniker": "LuckySpin\\InputData.cs",
+              "ToolTip": "C:\\Users\\longnx\\Dropbox\\Project\\Lucky Spin\\LuckySpin\\LuckySpin\\InputData.cs",
+              "RelativeToolTip": "LuckySpin\\InputData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T01:44:23.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WinName.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\longnx\\Dropbox\\Project\\Lucky Spin\\LuckySpin\\LuckySpin\\WinName.xaml.cs",
+              "RelativeDocumentMoniker": "LuckySpin\\WinName.xaml.cs",
+              "ToolTip": "C:\\Users\\longnx\\Dropbox\\Project\\Lucky Spin\\LuckySpin\\LuckySpin\\WinName.xaml.cs",
+              "RelativeToolTip": "LuckySpin\\WinName.xaml.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T14:47:19.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WinName.xaml",
+              "DocumentMoniker": "C:\\Users\\longnx\\Dropbox\\Project\\Lucky Spin\\LuckySpin\\LuckySpin\\WinName.xaml",
+              "RelativeDocumentMoniker": "LuckySpin\\WinName.xaml",
+              "ToolTip": "C:\\Users\\longnx\\Dropbox\\Project\\Lucky Spin\\LuckySpin\\LuckySpin\\WinName.xaml*",
+              "RelativeToolTip": "LuckySpin\\WinName.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-27T14:46:50.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\longnx\\Dropbox\\Project\\Lucky Spin\\LuckySpin\\LuckySpin\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LuckySpin\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\longnx\\Dropbox\\Project\\Lucky Spin\\LuckySpin\\LuckySpin\\MainWindow.xaml",
+              "RelativeToolTip": "LuckySpin\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-27T12:43:15.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\longnx\\Dropbox\\Project\\Lucky Spin\\LuckySpin\\LuckySpin\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LuckySpin\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\longnx\\Dropbox\\Project\\Lucky Spin\\LuckySpin\\LuckySpin\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LuckySpin\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowCwAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T12:43:15.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
